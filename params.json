@@ -1,7 +1,0 @@
-{
-  "name": "Selman Ercan's GitHub projects",
-  "tagline": "",
-  "body": "### Projects:\r\n* [NewsClassification](https://github.com/S-Ercan/NewsClassification)\r\n<br />\r\nMachine learning project in Python for predicting the popularity of news articles, expressed in number of comments.\r\n<br />\r\nIt contains components for crawling and collecting the articles, for preprocessing them, and for training and evaluating various classifiers on them.\r\n* [QLearning](https://github.com/S-Ercan/QLearning)\r\n<br />\r\nReinforcement learning agent learning to navigate a maze containing rewards and punishments using the Q-learning technique.\r\nIt is implemented in Java and uses a graphical representation to illustrate the learning process.\r\n<br />\r\nBased on the sections about Q-learning in the Reinforcement Learning chapter of _Artificial Intelligence: A Modern Approach_.",
-  "google": "",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
