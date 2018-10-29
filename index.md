@@ -4,7 +4,7 @@
 <br /> A Flask web app with a Python back end that scrapes data from [planefinder.net](http://planefinder.net/).
 
 * [schiphol-app](https://github.com/S-Ercan/schiphol-app)
-<br /> Description
+<br /> Application to collect data and calculate statistics using the Schiphol API.
 
 * [schiphol-app-ui](https://github.com/S-Ercan/schiphol-app-ui)
 <br /> Description
