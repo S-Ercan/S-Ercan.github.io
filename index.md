@@ -10,7 +10,7 @@
 <br /> Description
 
 * [stock](https://github.com/S-Ercan/stock)
-<br /> Description
+<br /> Java-based machine learning project for determining trends in stock data. Incrementally builds up a dataset and uses Apache Spark to run a clustering algorithm to cluster together stock symbols that have recently been trending in similar directions.
 
 * [stock-ui](https://github.com/S-Ercan/stock-ui)
 <br /> Description
