@@ -1,24 +1,19 @@
 ### Projects:
 
 * [flight-track](https://github.com/S-Ercan/flight-track)
-<br />
-Description
+<br /> Description
 
 * [schiphol-app](https://github.com/S-Ercan/schiphol-app)
-<br />
-Description
+<br /> Description
 
 * [schiphol-app-ui](https://github.com/S-Ercan/schiphol-app-ui)
-<br />
-Description
+<br /> Description
 
 * [stock](https://github.com/S-Ercan/stock)
-<br />
-Description
+<br /> Description
 
 * [stock-ui](https://github.com/S-Ercan/stock-ui)
-<br />
-Description
+<br /> Description
 
 * [YodaQA](https://github.com/S-Ercan/yodaqa)
 <br />
