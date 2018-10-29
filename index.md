@@ -1,7 +1,7 @@
 ### Projects:
 * [flight-track](https://github.com/S-Ercan/flight-track)
 <br />
-* [schiphol-app(https://github.com/S-Ercan/schiphol-app)
+* [schiphol-app](https://github.com/S-Ercan/schiphol-app)
 <br />
 * [schiphol-app-ui](https://github.com/S-Ercan/schiphol-app-ui)
 <br />
