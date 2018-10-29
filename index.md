@@ -20,5 +20,4 @@
 * [QLearning](https://github.com/S-Ercan/QLearning)
 <br /> Reinforcement learning agent learning to navigate a maze containing rewards and punishments using the Q-learning technique.
 It is implemented in Java and uses a graphical representation to illustrate the learning process.
-<br />
-Based on the sections about Q-learning in the Reinforcement Learning chapter of _Artificial Intelligence: A Modern Approach_.
+<br /> Based on the sections about Q-learning in the Reinforcement Learning chapter of _Artificial Intelligence: A Modern Approach_.
