@@ -2,6 +2,7 @@
 
 * [flight-track](https://github.com/S-Ercan/flight-track)
 <br /> A Flask web app with a Python back end that scrapes data from [planefinder.net](http://planefinder.net/).
+See [demo](http://18.216.85.76/flight_tracker/flights).
 * [schiphol-app](https://github.com/S-Ercan/schiphol-app)
 <br /> Application to collect data and calculate statistics using the Schiphol API.
 * [schiphol-app-ui](https://github.com/S-Ercan/schiphol-app-ui)
@@ -10,6 +11,7 @@
 <br /> Java-based machine learning project for determining trends in stock data. Incrementally builds up a dataset and uses Apache Spark to run a clustering algorithm to cluster together stock symbols that have recently been trending in similar directions.
 * [stock-ui](https://github.com/S-Ercan/stock-ui)
 <br /> A React application serving as the front end for [stock](https://github.com/S-Ercan/stock).
+See [demo](http://18.216.85.76:3000).
 * [YodaQA](https://github.com/S-Ercan/yodaqa)
 <br /> A fork of the original [YodaQA](https://github.com/brmson/yodaqa) project, with my work contained in the ``dutch`` branch. As part of my Computer Science Master's Thesis, I'm working on getting the system to handle Dutch questions and sources. The system has an architecture based on [Apache UIMA](http://uima.apache.org/), uses DBpedia and Wikipedia as its sources, and analyzes natural language using a variety of NLP tools (parser, named entity recognizer, word nets, etc.).
 * [QLearning](https://github.com/S-Ercan/QLearning)
