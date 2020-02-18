@@ -4,10 +4,10 @@
 <br /> Application to collect data and calculate statistics using the Schiphol API.
 * [schiphol-app-ui](https://github.com/ercanse/schiphol-app-ui)
 <br /> A React application serving as the front end for [schiphol-app](https://github.com/ercanse/schiphol-app).  
-See [demo](http://52.14.47.77:4000).
+See [demo](http://3.19.62.26:4000).
 * [flight-track](https://github.com/S-Ercan/flight-track)
 <br /> A Flask web app with a Python back end that scrapes data from [planefinder.net](http://planefinder.net/).  
-See [demo](http://52.14.47.77/flight_tracker/flights).
+See [demo](http://3.19.62.26/flight_tracker/flights).
 * [QLearning](https://github.com/ercanse/QLearning)
 <br /> Reinforcement learning agent learning to navigate a maze containing rewards and punishments using the Q-learning technique.
 It is implemented in Java and uses a graphical representation to illustrate the learning process.
