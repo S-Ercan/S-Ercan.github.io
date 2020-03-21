@@ -5,9 +5,12 @@
 * [schiphol-app-ui](https://github.com/ercanse/schiphol-app-ui)
 <br /> A React application serving as the front end for [schiphol-app](https://github.com/ercanse/schiphol-app).  
 See [demo](http://3.19.62.26:4000).
-* [flight-track](https://github.com/S-Ercan/flight-track)
+* [flight-track](https://github.com/ercanse/flight-track)
 <br /> A Flask web app with a Python back end that scrapes data from [planefinder.net](http://planefinder.net/).  
 See [demo](http://3.17.146.58:2080/flights).
+* [NewsClassification](https://github.com/ercanse/NewsClassification)
+<br /> Predicting popularity for news articles using machine learning techniques.
+Collects articles from [nu.nl](https://www.nu.nl/), processes them and runs classifiers using `scikit-learn`.
 * [QLearning](https://github.com/ercanse/QLearning)
 <br /> Reinforcement learning agent learning to navigate a maze containing rewards and punishments using the Q-learning technique.
 It is implemented in Java and uses a graphical representation to illustrate the learning process.
